@@ -1,5 +1,8 @@
+#Strogonof de Frango :chicken:
 
-#Strogonof de Frango :chicken
+##Receita básica
+
+
 
 
 **Negrito**
@@ -18,7 +21,13 @@ _italico_
     Batata palha e arroz branco para acompanhar
 
    
+
 ##Modo de preparo
 
   Juntar  tudo  na panela
 
+
+
+###TEMPO DE ESPERA
+
+**APROXIMADAMENTE 01:00 HORA**
